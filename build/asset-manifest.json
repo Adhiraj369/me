@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mnpm%20run%20deployy-portfolio/static/css/main.438f9ea6.css",
+    "main.js": "/Mnpm%20run%20deployy-portfolio/static/js/main.24a52f34.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Mnpm%20run%20deployy-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Profile.PNG": "/Mnpm%20run%20deployy-portfolio/static/media/Profile.c6f3acaa96d021d235cf.PNG",
+    "static/media/work3.png": "/Mnpm%20run%20deployy-portfolio/static/media/work3.1e1786d768263a11d8f4.png",
+    "static/media/work2.png": "/Mnpm%20run%20deployy-portfolio/static/media/work2.b3a38a138927cddfa2e2.png",
+    "static/media/work1.png": "/Mnpm%20run%20deployy-portfolio/static/media/work1.fd6d678009628dc55b06.png",
+    "static/media/about1.png": "/Mnpm%20run%20deployy-portfolio/static/media/about1.9e5a8f0ed09d90b6f24d.png",
+    "static/media/Adhiraj Singh Deep.pdf": "/Mnpm%20run%20deployy-portfolio/static/media/Adhiraj Singh Deep.2c4fc5efdd289abedf22.pdf",
+    "static/media/work4.jpg": "/Mnpm%20run%20deployy-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "index.html": "/Mnpm%20run%20deployy-portfolio/index.html",
+    "main.438f9ea6.css.map": "/Mnpm%20run%20deployy-portfolio/static/css/main.438f9ea6.css.map",
+    "main.24a52f34.js.map": "/Mnpm%20run%20deployy-portfolio/static/js/main.24a52f34.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Mnpm%20run%20deployy-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438f9ea6.css",
+    "static/js/main.24a52f34.js"
+  ]
+}
